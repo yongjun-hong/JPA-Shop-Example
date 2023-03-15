@@ -1,1 +1,37 @@
-# JPA-Shop-Example
+### 김영한 선생님의 인프런 강의를 듣고 만든 Spring Boot 파일입니다.
+
+# 개발환경
+- JDK 11
+- Spring Boot 2.7.8
+- Spring Data JPA
+ - IDE 
+   - Intellij
+ - DATABASE
+   - h2
+---
+
+## 구현한 내용
+1. 홈페이지
+  - Bootstrap의 소스를 인용했습니다.
+1. 회원 가입 (Spring Security 사용 X)
+2. 회원 목록
+3. 상품 등록
+4. 상품 목록
+5. 주문 등록
+6. 주문 목록
+---
+# 각종 화면들
+### 메인 화면
+![메인 화면](https://user-images.githubusercontent.com/104314593/225344623-f58f96af-1272-4937-b95f-e6b701d5f858.png)
+### 회원 목록
+![회원 목록](https://user-images.githubusercontent.com/104314593/225351063-b9ef158f-c05d-477b-82d2-b85d244b77a3.png)
+### 상품 주문 화면
+![상품 주문](https://user-images.githubusercontent.com/104314593/225350635-a82bfd5a-7458-4058-bb3f-8ed70fa79bdd.png)
+### 상품 목록 
+![상품 목록](https://user-images.githubusercontent.com/104314593/225350819-7eb73f2d-abc9-4b8c-a3c4-a6ce03c86136.png)
+### 상품 주문 
+![주문](https://user-images.githubusercontent.com/104314593/225351139-fc1eb504-d043-4813-8874-bf08f7487ffb.png)
+### 상품 주문 목록 
+![주문 목록](https://user-images.githubusercontent.com/104314593/225351341-0a2852d7-a66a-4ec8-851e-f2f4d588675c.png)
+
+
