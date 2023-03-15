@@ -26,7 +26,7 @@ public class Order {
     private Member member;
     @OneToMany(mappedBy = "order", cascade = CascadeType.ALL) // Cascade 알아보기
     private List<OrderItem> orderItems = new ArrayList<>();
-    @OneToOne(fetch = FetchType.LAZY) // FetchType 알아보기
+    @OneToOne(fetch = FetchType.LAZY, cascade = CascadeType.ALL) // FetchType 알아보기
     @JoinColumn(name = "delivery_id")
     private Delivery delivery;
     private LocalDateTime orderDate; // 주문 시간
