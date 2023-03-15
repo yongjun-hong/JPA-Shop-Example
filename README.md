@@ -1,4 +1,4 @@
-### 김영한 선생님의 인프런 강의를 듣고 만든 Spring Boot 파일입니다.
+### 김영한 선생님의 [인프런 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1/dashboard)를 듣고 만든 Spring Boot 파일입니다.
 
 # 개발환경
 - JDK 11
