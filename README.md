@@ -21,7 +21,7 @@
 6. 주문 목록
 ---
 # 각종 화면들
-### 메인 화면
+### 데이터베이스 구조
 ![메인 화면](https://user-images.githubusercontent.com/104314593/225344623-f58f96af-1272-4937-b95f-e6b701d5f858.png)
 ### 회원 목록
 ![회원 목록](https://user-images.githubusercontent.com/104314593/225351063-b9ef158f-c05d-477b-82d2-b85d244b77a3.png)
